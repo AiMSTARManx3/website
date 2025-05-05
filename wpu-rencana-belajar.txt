@@ -2,6 +2,8 @@ RENCANA BELAJAR
 -html
 -css
 -php
+ *framework php
+  ^laravel
 -javascript
  *framework javascript
 -phyton
