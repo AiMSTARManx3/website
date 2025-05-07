@@ -108,4 +108,4 @@ Responsif: Mudah membuat desain yang responsif dengan mengubah jumlah kolom dan 
 
 Pengelolaan Ruang: Menggunakan unit fraksi (fr) untuk pembagian ruang secara dinamis.
 
-Dengan CSS Grid, kamu bisa lebih mudah membuat desain yang bersih dan terstruktur. Apakah ada contoh spesifik yang ingin kamu buat?
+Dengan CSS Grid, kita bisa lebih mudah membuat desain yang bersih dan terstruktur. 
